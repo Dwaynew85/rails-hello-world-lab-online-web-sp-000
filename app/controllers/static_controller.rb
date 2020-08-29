@@ -1,7 +1,7 @@
 class StaticController < ApplicationController
 
   def about
-    render 'hello'
+    render "hello"
   end
 
 end
