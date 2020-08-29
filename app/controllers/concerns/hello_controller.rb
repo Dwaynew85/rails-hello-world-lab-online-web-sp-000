@@ -1,6 +1,6 @@
 class HelloController < ApplicationController
 
-  def hello 
-  end 
+  def hello
+  end
 
 end
